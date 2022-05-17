@@ -14,15 +14,7 @@ pipeline {
 
   stages { 
 
-      stage('Cloning our Git') { 
-
-          steps { 
-
-              git 'https://github.com/kumar2222/Europe.git' 
-
-          }
-
-      } 
+     
 stage('Build with unit testing') {
             steps {
                 // Run the maven build
