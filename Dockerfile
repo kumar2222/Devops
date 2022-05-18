@@ -5,7 +5,7 @@
 FROM adoptopenjdk/openjdk11:alpine-jre
 
 # Refer to Maven build -> finalName
-ARG JAR_FILE=target/docker-spring-boot-web.jar
+ARG JAR_FILE=target/docker-spring-boot-1.0.jar
 
 # cd /opt/app
 WORKDIR /opt/app
