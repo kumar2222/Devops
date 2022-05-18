@@ -2,7 +2,7 @@ pipeline {
 
   environment { 
 
-      registry = "banalam/docker" 
+      registry = "banalam/european" 
 
       registryCredential = 'banalam_id' 
 
