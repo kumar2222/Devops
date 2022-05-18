@@ -58,7 +58,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.mkyong</mainClass>
+            <mainClass>com.mkyong.StartApplication</mainClass>
           </manifest>
         </archive>
       </configuration>

@@ -28,6 +28,6 @@ Implementation-Title: docker-spring-boot
 Implementation-Version: 1.0
 Implementation-Vendor-Id: com.mkyong
 Implementation-URL: 
-Main-Class: com.mkyong
+Main-Class: com.mkyong.StartApplication
 Created-By: Maven Integration for Eclipse
 
