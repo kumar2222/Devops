@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.demo.com.example.demo.TestControllerdemo
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.017 s <<< FAILURE! - in com.example.demo.com.example.demo.TestControllerdemo
-com.example.demo.com.example.demo.TestControllerdemo  Time elapsed: 0.017 s  <<< ERROR!
-java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
-
